@@ -1,1 +1,2 @@
-"# test-python" 
+# watch and run
+nodemon main.py
